@@ -6,9 +6,9 @@
 
 # install
 
-～～～
+~~~
 composer require whereof/flysystem-github
-～～～
+~~~
 
 # CDN List
 
