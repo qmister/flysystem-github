@@ -4,6 +4,12 @@
 
 - PHP >= 7.2
 
+# install
+
+～～～
+composer require whereof/flysystem-github
+～～～
+
 # CDN List
 
 ~~~
